@@ -1,0 +1,10 @@
+[app]
+ns="StaticIPOutbound"
+stage="Dev"
+
+[aws]
+account='000011112222'
+region="ap-northeast-2"
+
+#[vpc]
+#id="vpc-xxx"
