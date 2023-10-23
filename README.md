@@ -1,0 +1,1 @@
+# cdk-static-ip-lambda-example
